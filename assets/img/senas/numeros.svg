@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="100%" height="100%">
+  <rect width="200" height="200" fill="#f4f6f8" rx="8"/>
+  <g stroke="#1b4467" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" fill="#ffe0bd">
+    <path d="M70,165 L70,190 L130,190 L130,165 Z" fill="#e8c39e"/>
+    <!-- Palma base -->
+    <path d="M68,110 L68,155 C68,165 80,170 100,170 C120,170 132,165 132,155 L132,110 Z"/>
+    <!-- Índice levantado (Número 1) -->
+    <path d="M72,110 L72,42 C72,32 86,32 86,42 L86,110 Z" fill="#ffebd2"/>
+    <!-- Medio, Anular, Meñique doblados -->
+    <path d="M86,110 C86,95 100,95 100,110 L100,135 L86,135 Z"/>
+    <path d="M100,110 C100,95 114,95 114,110 L114,135 L100,135 Z"/>
+    <path d="M114,110 C114,98 128,98 128,110 L128,135 L114,135 Z"/>
+    <!-- Pulgar sobre los dedos -->
+    <path d="M60,125 C55,135 70,145 90,140 Z" fill="#ffebd2"/>
+  </g>
+  <text x="100" y="32" font-family="Arial, sans-serif" font-size="20" font-weight="bold" fill="#1b4467" text-anchor="middle">Números (1 - 10)</text>
+</svg>

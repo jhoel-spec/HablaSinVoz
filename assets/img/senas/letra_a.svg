@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="100%" height="100%">
+  <rect width="200" height="200" fill="#f4f6f8" rx="8"/>
+  <!-- Letra A: Mano en puño cerrado con el pulgar extendido hacia arriba/costado -->
+  <g stroke="#1b4467" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" fill="#ffe0bd">
+    <!-- Muñeca -->
+    <path d="M70,165 L70,190 L130,190 L130,165 Z" fill="#e8c39e"/>
+    <!-- Palma / Puño base -->
+    <path d="M60,110 C60,95 70,85 85,85 L125,85 C140,85 145,100 145,120 L145,150 C145,165 135,170 120,170 L80,170 C65,170 60,160 60,140 Z"/>
+    <!-- Dedos flexionados en puño (Índice, Medio, Anular, Meñique) -->
+    <path d="M75,85 C75,70 95,70 95,85 L95,115 C95,120 75,120 75,115 Z"/>
+    <path d="M95,85 C95,70 115,70 115,85 L115,115 C115,120 95,120 95,115 Z"/>
+    <path d="M115,85 C115,72 133,72 133,85 L133,115 C133,120 115,120 115,115 Z"/>
+    <path d="M133,90 C133,78 145,78 145,90 L145,120 C145,125 133,125 133,120 Z"/>
+    <!-- Pulgar apoyado al lateral derecho apuntando hacia arriba -->
+    <path d="M60,135 C50,130 45,110 50,90 C54,75 66,70 70,85 L70,135 Z" fill="#ffebd2"/>
+    <!-- Pliegues de los nudillos -->
+    <line x1="80" y1="110" x2="140" y2="110" stroke="#d49b6a" stroke-width="2"/>
+    <line x1="80" y1="125" x2="140" y2="125" stroke="#d49b6a" stroke-width="2"/>
+  </g>
+  <text x="100" y="45" font-family="Arial, sans-serif" font-size="28" font-weight="bold" fill="#1b4467" text-anchor="middle">Letra "A"</text>
+</svg>

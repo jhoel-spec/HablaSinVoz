@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 200" width="100%" height="100%">
+  <rect width="200" height="200" fill="#f4f6f8" rx="8"/>
+  <!-- Letra C: Mano en arco formando una letra C -->
+  <g stroke="#1b4467" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" fill="#ffe0bd">
+    <path d="M60,165 L60,190 L120,190 L120,165 Z" fill="#e8c39e"/>
+    <!-- Arco de los dedos formando la C -->
+    <path d="M75,155 C55,140 50,90 75,65 C95,45 135,45 145,65 C150,75 140,85 130,80 C115,70 95,75 85,95 C75,115 85,135 110,140 C125,142 135,130 145,135 C150,145 135,160 115,165 C95,170 80,165 75,155 Z"/>
+  </g>
+  <text x="100" y="35" font-family="Arial, sans-serif" font-size="24" font-weight="bold" fill="#1b4467" text-anchor="middle">Letra "C"</text>
+</svg>
